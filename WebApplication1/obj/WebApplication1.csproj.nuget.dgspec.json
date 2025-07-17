@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\WebApplication1.csproj": {}
+  },
+  "projects": {
+    "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\WebApplication1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\WebApplication1.csproj",
+        "projectName": "WebApplication1",
+        "projectPath": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\Farah\\.nuget\\packages\\",
+        "outputPath": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Farah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
+            "Google.Apis.YouTube.v3": {
+              "target": "Package",
+              "version": "[1.68.0.3582, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "MongoFramework": {
+              "target": "Package",
+              "version": "[0.29.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.ProtectedData": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "YoutubeExplode.Converter": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "YoutubeExtractorCore": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

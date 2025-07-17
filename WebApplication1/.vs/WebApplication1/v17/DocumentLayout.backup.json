@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|d:\\senior year\\grad proj\\code versions\\adding summarizing model and update get transcript version\\thotron-backend-localversion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\webapplication1\\repositories\\youtuberepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|solutionrelative:repositories\\youtuberepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|d:\\senior year\\grad proj\\code versions\\adding summarizing model and update get transcript version\\thotron-backend-localversion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\webapplication1\\controllers\\youtubecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|solutionrelative:controllers\\youtubecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|d:\\senior year\\grad proj\\code versions\\adding summarizing model and update get transcript version\\thotron-backend-localversion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\webapplication1\\services\\youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|solutionrelative:services\\youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|d:\\senior year\\grad proj\\code versions\\adding summarizing model and update get transcript version\\thotron-backend-localversion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\webapplication1\\services\\iyoutubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|solutionrelative:services\\iyoutubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|d:\\senior year\\grad proj\\code versions\\adding summarizing model and update get transcript version\\thotron-backend-localversion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\webapplication1\\repositories\\iyoutuberepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|solutionrelative:repositories\\iyoutuberepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|d:\\senior year\\grad proj\\code versions\\adding summarizing model and update get transcript version\\thotron-backend-localversion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\webapplication1\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|d:\\senior year\\grad proj\\code versions\\adding summarizing model and update get transcript version\\thotron-backend-localversion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\webapplication1\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|solutionrelative:repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|d:\\senior year\\grad proj\\code versions\\adding summarizing model and update get transcript version\\thotron-backend-localversion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\webapplication1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|d:\\senior year\\grad proj\\code versions\\adding summarizing model and update get transcript version\\thotron-backend-localversion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\webapplication1\\models\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089B4874-2164-4150-8C92-7D87B38822B4}|WebApplication1.csproj|solutionrelative:models\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YoutubeController .cs",
+              "DocumentMoniker": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Controllers\\YoutubeController .cs",
+              "RelativeDocumentMoniker": "Controllers\\YoutubeController .cs",
+              "ToolTip": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Controllers\\YoutubeController .cs",
+              "RelativeToolTip": "Controllers\\YoutubeController .cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:28:57.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YoutubeRepository.cs",
+              "DocumentMoniker": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Repositories\\YoutubeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\YoutubeRepository.cs",
+              "ToolTip": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Repositories\\YoutubeRepository.cs",
+              "RelativeToolTip": "Repositories\\YoutubeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:27:55.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IYoutubeRepository.cs",
+              "DocumentMoniker": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Repositories\\IYoutubeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IYoutubeRepository.cs",
+              "ToolTip": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Repositories\\IYoutubeRepository.cs",
+              "RelativeToolTip": "Repositories\\IYoutubeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:21:23.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IYoutubeService.cs",
+              "DocumentMoniker": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Services\\IYoutubeService.cs",
+              "RelativeDocumentMoniker": "Services\\IYoutubeService.cs",
+              "ToolTip": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Services\\IYoutubeService.cs",
+              "RelativeToolTip": "Services\\IYoutubeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:17:53.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YouTubeService.cs",
+              "DocumentMoniker": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Services\\YouTubeService.cs",
+              "RelativeDocumentMoniker": "Services\\YouTubeService.cs",
+              "ToolTip": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Services\\YouTubeService.cs",
+              "RelativeToolTip": "Services\\YouTubeService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:17:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:14:34.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:01:11.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AI.cs",
+              "DocumentMoniker": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Models\\AI.cs",
+              "RelativeDocumentMoniker": "Models\\AI.cs",
+              "ToolTip": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Models\\AI.cs",
+              "RelativeToolTip": "Models\\AI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:00:34.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProjectRepository.cs",
+              "ToolTip": "D:\\SENIOR YEAR\\grad proj\\code versions\\adding summarizing model and update get transcript version\\Thotron-Backend-LocalVersion-35cc63c1c0a4981910f1d7c8a7cef5e7ff3caaf3\\WebApplication1\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:08:14.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 193,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
